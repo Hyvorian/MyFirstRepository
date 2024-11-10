@@ -1,2 +1,2 @@
 # MyFirstRepository
-This is my demo repository
+I created this repository to demo GitHub account creation.
